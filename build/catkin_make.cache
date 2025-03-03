@@ -1,0 +1,2 @@
+basic_service_client_tutorial:basic_service_server_tutorial:basic_tf_tutorial:basic_tutorial:basic_urdf_tutorial:beginner_tutorials_blanks:tutorial_srvs
+-DCATKIN_DEVEL_PREFIX=/home/kim/catkin_ws_practice/devel -DCMAKE_INSTALL_PREFIX=/home/kim/catkin_ws_practice/install -G Unix Makefiles

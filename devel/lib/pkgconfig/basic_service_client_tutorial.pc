@@ -1,0 +1,8 @@
+prefix=/home/kim/catkin_ws_practice/devel
+
+Name: basic_service_client_tutorial
+Description: Description of basic_service_client_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

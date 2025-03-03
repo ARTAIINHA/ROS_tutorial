@@ -1,0 +1,8 @@
+prefix=/home/kim/catkin_ws_practice/devel
+
+Name: basic_tutorial
+Description: Description of basic_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kim/catkin_ws_practice/devel/setup.sh
