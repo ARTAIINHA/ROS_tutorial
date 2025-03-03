@@ -1,0 +1,8 @@
+# Ubuntu 기반 이미지 사용
+FROM ubuntu:20.04
+
+# 패키지 업데이트 및 필수 패키지 설치
+RUN apt-get update && apt-get install -y python3
+
+# 기본 명령어 설정
+CMD ["python3", "--version"]
